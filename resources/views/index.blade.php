@@ -27,6 +27,6 @@
         @endforeach
 
       </div>
-    </div> <!-- End of Now Playing -->>
+    </div> <!-- End of Now Playing -->
   </div>
 @endsection
